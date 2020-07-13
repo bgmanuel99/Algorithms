@@ -1,2 +1,2 @@
 # Algorithms
-A repository for all type of algorithms
+A repository for sorting and searching algorithms with time and space complexities
